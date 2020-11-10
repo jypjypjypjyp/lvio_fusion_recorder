@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find realsense2_camera)/launch/rs_camera.launch"/>
+    <include file="$(find lslidar_c32_decoder)/launch/lslidar_c32.launch"/>
+</launch>

@@ -1,0 +1,1 @@
+rosbag record /camera/color/camera_info /camera/color/image_raw /camera/infra1/camera_info /camera/infra1/image_rect_raw  /camera/infra2/camera_info /camera/infra2/image_rect_raw /lslidar_point_cloud /camera/gyro/sample /camera/accel/sample -O /home/dji/Datasets/2020-11-7.bag

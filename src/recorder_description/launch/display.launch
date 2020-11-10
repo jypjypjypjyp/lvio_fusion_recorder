@@ -1,6 +1,6 @@
 <launch>
 
-  <arg name="model" default="$(find recorder_description)/urdf/recorder.urdf"/>
+  <arg name="model" default="$(find recorder_description)/urdf/new_recorder.urdf"/>
   <arg name="gui" default="false" />
   <arg name="rvizconfig" default="$(find recorder_description)/rviz/urdf.rviz" />
 
